@@ -3,8 +3,6 @@
 
 <template>
   <main>
-    <div>
-      CIAO
-    </div>
+    <h3>HOME VIEW COMPONENT</h3>
   </main>
 </template>
